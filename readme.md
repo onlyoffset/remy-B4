@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm remyB / caspa / almir</h1>
-<h3 align="center">Amateur developer from Bosnia and Herzegovina</h3>
+<h3 align="center">Developer from Bosnia and Herzegovina</h3>
 
 <h3 align="left">Connect with me: almiirr#5414 (DISCORD)</h3>
 <p align="left">
