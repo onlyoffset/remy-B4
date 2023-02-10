@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm remyB</h1>
-<h3 align="center">Programmer from Bosnia and Herzegovina</h3>
 
 <h3 align="left">How to reach me: neanderalmir#1725 (discord)</h3>
 <p align="left">
